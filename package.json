@@ -1,0 +1,13 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "Static export of website",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'No build needed'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
